@@ -1,0 +1,1 @@
+this is a text file created for 9-pathModule.js

@@ -1,0 +1,15 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "This is an intro to Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harkiran",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "superheroes": "^3.0.0"
+  }
+}
