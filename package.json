@@ -4,12 +4,15 @@
   "description": "This is an intro to Node JS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "author": "Harkiran",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
     "superheroes": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
